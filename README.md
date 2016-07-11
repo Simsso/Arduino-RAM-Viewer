@@ -5,7 +5,9 @@ One Arduino runs your program. It’s the Arduino from which you want to view th
 
 Almost all RAM-viewer depending tasks are outsourced to the transceiver; most important here is the communication with the PC. For the User Arduino, the only additional task left is to serially transmit the individual bytes. It was an important specification to keep the additional code on the User Arduino as short as possible.
 
-Video: https://www.youtube.com/watch?v=oL_8Slv-a80
+## YouTube Video
+Description, explanation and demo.
+[![YouTube Video](https://img.youtube.com/vi/oL_8Slv-a80/0.jpg)](https://www.youtube.com/watch?v=oL_8Slv-a80)
 
 ## Wiring
 | User Arduino | Transceiver Ardunio | PC | Description |
