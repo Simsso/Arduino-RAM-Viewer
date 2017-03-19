@@ -16,7 +16,7 @@ Description, explanation and demo.
 |GND|GND||Ground|
 |2 (can be changed)|8 (fixed)||Data|
 |3 (can be changed)|2 (fixed)||Clock|
-||USB|USB|Serial connection|
+| |USB|USB|Serial connection|
 
 ## Code
 ### User Arduino
